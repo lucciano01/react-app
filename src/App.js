@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+    <b>Realizando aletarações no arquivo</b>
     </div>
   );
 }
